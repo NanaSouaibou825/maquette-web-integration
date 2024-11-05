@@ -1,2 +1,5 @@
 # maquette-web-integration
-découpage et intégration d'une maquette avec Photoshop en utilisant le langage HTML, CSS, JS et PHP
+Je vous présente un petit projet qui consiste à
+découper et intégrer une maquette.
+Le découpage se fait avec Photoshop
+Et pour intégrer, j'ai utiliser les langages HTML, CSS, JS et PHP à fin de rendre cette maquette dynamique.
